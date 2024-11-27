@@ -1,4 +1,4 @@
----
+---itela60
 manufacturer:
     - general
 ---
